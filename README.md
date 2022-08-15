@@ -4,3 +4,5 @@ The purpose of this project is to web scrape three different websites pertaining
 
 ## Project Results
 The final Flask web app containing all the scraped data and HTML index is:
+
+![](Mars_Flask_web_app.png)
